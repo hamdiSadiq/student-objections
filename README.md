@@ -1,0 +1,2 @@
+# student-objections
+The project is very important for students and members of the examination committee, as students do not need to go to the university to submit the objection and then know the result of the objection, as they can submit the objection from home and also, they can know the objection result from home, therefore result to give information easier, accurate, up to date and faster compared to the use of the manual system
